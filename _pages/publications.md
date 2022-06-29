@@ -1,16 +1,9 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+1. [Almost-Ramanujan Graphs and Prime Gaps](http://www.sciencedirect.com/science/article/pii/S0195669814001450)
+European J. Combin., 2015 (43) 204-209, 2009
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}

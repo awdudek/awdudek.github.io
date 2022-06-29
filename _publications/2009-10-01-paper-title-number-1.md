@@ -1,5 +1,5 @@
 ---
-title: "Almost-Ramanujan Graphs and Prime Gaps"
+title: "1. Almost-Ramanujan Graphs and Prime Gaps"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 venue: 'European J. Combin., 2015 (43) 204-209'

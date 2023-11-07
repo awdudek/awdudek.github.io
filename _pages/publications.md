@@ -47,11 +47,11 @@ Math. Comp., 15 (2019)
 Bull. Aust. Math. Soc., 99 (2019)
 
 15. [(with M. Cully-Hugill) A Conditional Explicit Result for the Prime Number Theorem in Short Intervals](https://arxiv.org/abs/1902.05065)  
-(submitted)
+Research in Number Theory (2023)
 
-16. [(with M. Cully-Hugill) An explicit Selberg mean-value result with applications](https://arxiv.org/abs/2206.00433)  
-(submitted)
+16. [(with M. Cully-Hugill) An Explicit Mean-Value Estimate for the Prime Number Theorem in Intervals](https://arxiv.org/abs/2206.00433)  
+J. Aust. Math. Soc. (2024)
 
-
+ 
 
 

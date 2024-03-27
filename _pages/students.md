@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here you will find my current/past students/projects.
+On this page you will find my current/past students/projects.
 
 Honours
 ======
@@ -18,5 +18,5 @@ Honours
 
 PhD
 ======
-Simon Thomas, *Applications of Number Theory to Graph Theory*, 2024--
+* Simon Thomas, *Applications of Number Theory to Graph Theory*, 2024--
 

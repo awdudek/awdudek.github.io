@@ -52,6 +52,12 @@ Research in Number Theory (2023)
 16. [(with M. Cully-Hugill) An Explicit Mean-Value Estimate for the Prime Number Theorem in Intervals](https://arxiv.org/abs/2206.00433)  
 J. Aust. Math. Soc. (2024)
 
+17. [(with H. Bohl) On Counting Constructions and Isomorphism Classes of I-Graphs](https://arxiv.org/abs/2412.19618)
+(submitted)
+
+18. [(with D. Johnston) An Explicit Result on Almost-Primes between Squares]
+(in preparation)
+
  
 
 

@@ -11,7 +11,7 @@ redirect_from:
 
 On this page you will find my current/past students/projects. Please get in touch if you would like to undertake a project in number theory.
 
-Summer Studens
+Summer Students
 ======
 * Ryan Braiden, *Arithmetic Functions and Integrators*, 2025
 * Felicity Caruana, *Asymptotics for Square Divisor Functions*, 2025
